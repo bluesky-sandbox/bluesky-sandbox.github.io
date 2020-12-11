@@ -1,0 +1,37 @@
+ophyd\.ophydobj
+===============
+
+.. automodule:: ophyd.ophydobj
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+   
+      register_instances_in_weakset
+      register_instances_keyed_on_name
+      select_version
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Kind
+      OphydObject
+   
+   
+
+   
+   
+   .. rubric:: Exceptions
+
+   .. autosummary::
+   
+      UnknownSubscription
+   
+   

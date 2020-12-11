@@ -1,0 +1,34 @@
+ophyd\.utils\.errors
+====================
+
+.. automodule:: ophyd.utils.errors
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Exceptions
+
+   .. autosummary::
+   
+      DestroyedError
+      DisconnectedError
+      ExceptionBundle
+      InvalidState
+      LimitError
+      OpException
+      PluginMisconfigurationError
+      ReadOnlyError
+      RedundantStaging
+      StatusTimeoutError
+      UnknownStatusFailure
+      UnprimedPlugin
+      WaitTimeoutError
+   
+   
